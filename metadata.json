@@ -1,0 +1,6 @@
+{
+  "name": "Finance Tracker",
+  "description": "A single-screen mobile application to track daily expenses, manage budgets, log borrowed money, and record repayments with Room Database persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
